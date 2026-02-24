@@ -1,5 +1,5 @@
 # JD Analyzer - AI-Powered Job Description Analysis Tool
-
+#Live link : https://job-description-analyzer-yeab.onrender.com/
 ## 📋 Project Overview
 
 **JD Analyzer** is an intelligent web application that analyzes job descriptions using Groq AI (llama-3.3-70b-versatile model). It provides comprehensive quality assessments across five critical dimensions: **Clarity**, **Inclusivity**, **Structure**, **Tone**, and **Requirements**.
